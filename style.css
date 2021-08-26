@@ -1,0 +1,13 @@
+body {
+    background-image: url("https://cdn.britannica.com/s:300x169,c:crop/68/218368-050-6B047692/Queen-Nefertari-Isis-Valley-of-the-Queens-Thebes-Egypt.jpg")
+} 
+
+
+h1 {
+    font-family: 'Chelsea Market', cursive;
+}
+
+img {filter: grayscale(0.5);}
+img:hover {
+    filter: grayscale(0);
+}
